@@ -95,6 +95,9 @@ to help others.
 
 Learn by solving real problems, not in a dry, theoretical way.
 
+In an academic context, generating figures seems to be the gateway drug to
+becoming a programmer.
+
 ## Course aims
 
 Get you "over the hump" and turn you into a programmer (or a better

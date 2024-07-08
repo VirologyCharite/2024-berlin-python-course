@@ -32,12 +32,13 @@ frozen accidents.
 Programming is often dressed up to look harder than it is. People with
 knowledge making themselves seem important and protecting their positions.
 
-It might look like there are big differences between you, but that's not
-the case at all. Not in what you already know and not in your aptitude,
-since what's mainly needed is clear thinking and common sense.
+It might look like there are big differences between you (and the others in
+the class), but that's not the case at all. Not in what you already know
+and not in your aptitude, since what's mainly needed is clear thinking and
+common sense.
 
-If you're not getting something, probably half the people in the room
-aren't either. Speak up!
+If you don't understand something, probably half the people in the room
+don't either. Please speak up!
 
 There are _very few_ control flow things (if/then/else, looping).
 
@@ -46,9 +47,12 @@ There are _very few_ data structures (lists, sets, dictionaries).
 These things are just fancy names for things you have been doing every day
 for your entire life.
 
-Almost all programs start & grow in the same way. From something very
-simple.  From an itch. They always look complex when you arrive late, after
-many incremental rounds of development.
+Almost all programs start out and then grow in the same way. From something
+very simple.  From an itch. They always look complex when you arrive late,
+after many incremental rounds of development.
+
+Many things are packaged up, easy to install, well documented, and show
+example usage.
 
 All programming languages are (more or less) the same.
 
@@ -138,7 +142,7 @@ Why learn about two languages (Python and the shell), isn't one hard enough?
 
 ### Python
 
-Go to our Jupyter Lab site, at [https://civ.wtf](https://civ.wtf)
+Go to our Jupyter Lab site, at [https://civ.wtf](https://civ.wtf).
 
 * Jupyter notebooks
 * Plotting

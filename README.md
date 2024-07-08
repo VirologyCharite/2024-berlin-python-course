@@ -161,6 +161,9 @@ Go to our Jupyter Lab site, at [https://civ.wtf](https://civ.wtf).
 * Classes - are exactly like factories
 * Pandas
 
+If you have access to BIH, [you can run Jupyter on their
+servers](https://hpc-docs.cubi.bihealth.org/ondemand/overview/).
+
 ### Shell
 
 * Wildcards
